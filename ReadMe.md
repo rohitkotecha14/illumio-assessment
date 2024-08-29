@@ -14,7 +14,7 @@ This project parses AWS flow log data and maps each row to a tag based on a look
 First, clone the project repository from GitHub:
 
 ```bash
-git clone https://github.com/your-username/illumio-assessment.git
+git clone https://github.com/rohitkotecha14/illumio-assessment.git
 ```
 Alternatively, you can download the project as a ZIP file and extract it.
 
