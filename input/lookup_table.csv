@@ -1,0 +1,15 @@
+dstport,protocol,tag
+443,tcp,https
+23,tcp,telnet
+25,tcp,smtp
+110,tcp,pop3
+993,tcp,imap
+143,tcp,imap
+80,tcp,http
+53,udp,dns
+53,tcp,dns
+22,tcp,ssh
+3389,tcp,rdp
+7,icmp,echo-request
+8,icmp,echo-reply
+0,icmp,ping
