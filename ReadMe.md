@@ -1,4 +1,4 @@
-# Flow Log Parser Project
+# Flow Log Parser
 
 This project parses AWS flow log data and maps each row to a tag based on a lookup table. The results are then written to CSV files, which include tag counts and port/protocol combination counts.
 
